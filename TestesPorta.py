@@ -2,7 +2,7 @@ import socket
 
 print ("INICIANDO SCAN de PORTAS")
 #Mensagem inicial para user
-#RM97436 - Ronan Braga
+#Ronan Braga
 
 saida=""
 while saida!="Sair":
